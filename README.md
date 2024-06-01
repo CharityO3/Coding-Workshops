@@ -1,1 +1,1 @@
-This file contains information about me and a few of my CSS, JAVA and HTML code workshop!
+This file contains information about me and a few of my CSS, JAVA Script and HTML coding workshops!

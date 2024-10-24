@@ -8,3 +8,6 @@ This project is a simple webpage created using HTML, CSS, and JavaScript to show
 - **HTML Structure**: Provides the content about German Shepherds.
 - **CSS Styling**: Styled container with gradient background, images, and hover effects.
 - **JavaScript Interaction**: Allows users to enter their name, favorite breed, and provides a response based on input.
+
+## Hosting:
+View hosted Project on Netlify: https://my-favorite-dog-breed.netlify.app/
